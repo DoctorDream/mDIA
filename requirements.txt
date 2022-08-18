@@ -1,0 +1,10 @@
+praw
+requests
+langid
+pandas
+langdetect
+transformers
+datasets
+sentencepiece
+protobuf
+bert_score
