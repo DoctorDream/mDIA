@@ -1,10 +1,10 @@
-#  MDIA: A Benchmark for Multilingual Dialogue Generation in 49 Languages
+#  MDIA: A Benchmark for Multilingual Dialogue Generation in 46 Languages
 
-You can get our paper on []
+You can get our paper on [https://arxiv.org/abs/2208.13078](https://arxiv.org/abs/2208.13078)
 
 ## Introduction
 
-MDIA is the first large-scale multilingual benchmark for dialogue generation. It covers real-life conversations in 49 languages across 19 language families. We present baseline results obtained by fine-tuning the multilingual, non-dialogue-focused pre-trained model mT5 as well as English-centric, dialogue-focused pre-trained chatbot DialoGPT. 
+MDIA is the first large-scale multilingual benchmark for dialogue generation. It covers real-life conversations in 46 languages across 19 language families. We present baseline results obtained by fine-tuning the multilingual, non-dialogue-focused pre-trained model mT5 as well as English-centric, dialogue-focused pre-trained chatbot DialoGPT. 
 
 In addition, we also publish this MdiaTool to help researchers to get more dialogue data by themselves easily.
 
@@ -91,3 +91,17 @@ The training and evaluate script accept several arguments to tweak the training:
 | gpu        | str  | 0               | which gpu to use                                  |
 
 # Citation
+
+```latex
+@misc{https://doi.org/10.48550/arxiv.2208.13078,
+  doi = {10.48550/ARXIV.2208.13078},
+  url = {https://arxiv.org/abs/2208.13078},
+  author = {Zhang, Qingyu and Shen, Xiaoyu and Chang, Ernie and Ge, Jidong and Chen, Pengke},
+  keywords = {Computation and Language (cs.CL), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {MDIA: A Benchmark for Multilingual Dialogue Generation in 46 Languages},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```
+
