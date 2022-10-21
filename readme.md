@@ -55,7 +55,7 @@ If you don't need to construct your own dataset, we provide the dataset we used 
 
 As shown below is the statistic of small MDIA.
 
-![comments_analysis](figures/comments_analysis.jpg)
+![comments_analysis](./figures/2022_comments_analysis.jpg)
 
 It should be emphasized that the dataset we finally obtained is not only the above-mentioned scale, and we will release the full version after finishing the compilation.
 
